@@ -8,7 +8,7 @@ The dashboard aims to provide meaningful insights into how Netflix content has e
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Dashboard%20(IMAGE).png)
 
 ---
 
